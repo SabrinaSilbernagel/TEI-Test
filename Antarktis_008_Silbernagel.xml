@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die antarktischen Eisverhältnisse : Auszug aus meinem Tagebuch der Südpolarreise der "Belgica" 1898-1899</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/12279804X">
+                  <surname>Arctowski</surname>
+                  <forename>Henryk</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <persName>
+                  <surname>Silbernagel</surname>
+                  <forename>Sabrina</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bearbeitung der digitalen Edition.</note>
+                  <date type="importDTA">2023-05-08T13:38:54Z</date>
+               </resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+         <extent>
+            <measure type="images">126</measure>
+            <measure type="tokens"/>
+            <measure type="types"/>
+            <measure type="characters"/>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               Hochschule der Medien Stuttgart
+            </publisher>
+            <publisher>
+               Thrüingische Universitäts- und Landesbibliothek Jena
+            </publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="MS"/>
+            <biblFull>
+               <titleStmt>
+                  <title level="m" type="main">Die antarktischen Eisverhältnisse : Auszug aus meinem Tagebuch der Südpolarreise der "Belgica" 1898-1899</title>
+                  <author>
+                     <persName ref="http://d-nb.info/gnd/12279804X">
+                        <surname>Arctowski</surname>
+                        <forename>Henryk</forename>
+                     </persName>
+                  </author>
+                  <editor>
+                     <persName ref="http://d-nb.info/gnd/132560585">
+                        <surname>Perthes</surname>
+                        <forename>Bernhard</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <editionStmt>
+                  <edition n="1"/>
+               </editionStmt>
+               <extent>
+                  <measure type="pages">IV, 121 S.</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher><name>Perthes Gotha</name></publisher>
+                  <pubPlace>Gotha</pubPlace>
+                  <date type="publication">1903</date>
+                  <date type="creation">1898-1899</date>
+               </publicationStmt>
+               <seriesStmt>
+                  <title level="s" type="main">A. Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt / Ergänzungsheft</title>
+                  <biblScope unit="volume">144</biblScope>
+               </seriesStmt>
+            </biblFull>
+            <msDesc xml:id="imagesource-1" corresp="#availability-imagesource-1">
+               <msIdentifier>
+                  <repository>Thüringer Universitäts-und Landesbibliothek</repository>
+                  <idno>
+                     <idno type="shelfmark"> 4 Geogr.I,63/1 :30.7</idno>
+                     <idno type="URLCatalogue">https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=184397103</idno>
+                     <idno type="URLImages">https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00029505</idno>
+                     <idno type="URN">https://nbn-resolving.org/urn:nbn:de:urmel-f02861e2-7dc3-495b-8f37-62a980aaebd52</idno>
+                  </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>
+               Zeilenumbrüche nach Original
+               Auszeichnungen von Personen, Orten
+               Kommentierung Registereinträge
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Wissenschaft</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- Gleich werde ich den Seitenanfang durch das selbstschließene pb-Element einleiten und einen Verweis auf das Digitalisat einfügen -->
+         <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143e5105-18.pdf"/>
+            
+         <div type="chapter" n="008">
+            <div type="diaryEntry" n="1">
+               <p>Sonnabend, den 29. Januar<lb/>
+            Wir fahren jetzt weiter. Der Wind hat sich seit dem<lb/>
+Morgen abgeflaut. Die Atmosphäre ist nebelfrei geworden, und der Anblick der Landschaft,<lb/>
+die wir vor uns haben, ist wundervoll. Von allen Seiten breitet sich die dichte weiße<lb/>
+Hülle bis ins Meer hinab; die Steilabhänge sind allein unbedeckt. Das Charakteristische<lb/>
+an diesen Küsten sind die senkrechten Steilufer und jähen Abhänge. Eine hohe Steilwand<lb/>
+eines unter die Wasserfläche gesunkenen Tales, in welches ein ungeheurer Gletscher mündet,<lb/>
+zeigt Spuren vertikaler Schichtung (neunte Landung); diese Sprünge sind indes wie alle,<lb/>
+die wir bisher gesehen haben. Ist das der Wirkung des Frostes zuzuschreiben? Tatsache<lb/>
+ist, daß die abgestumpften Felskegel, die gegen die plötzlichen Temperaturschwankungen<lb/>
+durch die Schneeschicht geschützt sind, die während eines großen Teiles des Jahres dort<lb/>
+liegen bleiben muß, keine oder nur wenige Risse zeigen. Sonderbare Gegend! Ich sehe<lb/>
+bloß Weiß, Grau und Schwarz, und doch ist viel Licht vorhanden, obgleich die Sonne ver-<lb/>
+schleiert ist. Aber wieviele Nüancen sind in diesem Weiß und Schwarz. Die Photographie<lb/>
+sagt nichts von dem vielfältig zusammengesetzten Lichte der Farben, während der Maler-<lb/>
+wieder oftmals übertreibt; hier aber bedürfte es eines guten Koloristen, um die Feinheit<lb/>
+der Farbentöne festzuhalten. Mein Freund Pokhitonow (der wohlbekannte russische Land-<lb/>
+schaftsmaler) würde ein bewundernswertes Gemälde von dieser Landschaft machen, die<lb/>
+durch ihren ernsten Charakter Ehrfurcht einflößt. Die See ist sehr düster, im Vordergrunde<lb/>
+leicht grünlich. Am Horizont sind schichtenförmige schwarze und graue Wolken, und darüber<lb/>
+mischt sich in das Weiß der Stratuswolken etwas Gelb. Der Schnee ist sehr weiß, und<lb/>
+die Eisblöcke zeigen ein nach unten zu leicht bläuliches Weiß, in den Spalten und am-<lb/>
+Fuße das Blau des Wassers. Der Fels ist schwarz, stellenweise bloß etwas bräunlich mit<lb/>
+gelb-grauen Streifen. Die Wolken hängen auf die Berggipfel herab. Es sind hohe Nebel<lb/>
+(Stratus), durch die man ein wenig hindurchsehen kann, aber je weiter oben immer weniger.<lb/>
+Nachmittags wird in Erwartung der Sonne und einer besseren Fernsicht auf einem<lb/>
+großen schwimmenden Eisblocke Süßwasser geholt. Ein heftiges Krachen wird hörbar, und<lb/>
+es springt ein wenig Eis ab. An der Oberfläche liegen seichte Wasserlachen und Rinnen,<lb/>
+durch welche das Schmelzwasser abfließt. Der Eisblock ist nicht in seiner ursprünglichen<lb/>
+Lage. Er ist umgestürzt. Eine Reihe geradlinig verlaufender Aushöhlungen zeigt eine<lb/>
+frühere Wasserlinie an; dieselben bilden Nischen, die durch Eispfeiler voneinander getrennt<lb/>
+sind. Da der Block sehr viele Risse zeigt, erklärt sich das Vorhandensein dieser Nischen.<lb/>
+Darunter sind Rinnen, die das abfließende Wasser der niedersinkenden Wellen gebildet hat,<lb/>
+und noch weiter nach unten die durch die allmähliche Auflösung des Eises durch das<lb/>
+Meerwasser entstandenen Vertiefungen.<lb/>
+Danco hat mir einen ganzen Sack voll Kies gesammelt, der im Eis zerstreut liegt und<lb/>
+sich an der Oberfläche in kleinen Schmelzlöchern von 5—20 em Durchmesser ansammelt.<lb/>
+Es besteht darum keinerlei Zweifel darüber, daß<lb/>
+dieses Eis Gletschereis ist.<lb/>
+<figure>
+<graphic type="ocrResult" orgiginText="MIII">
+	<desc>  Abbildung eines Schmelzlochs </desc>
+</graphic>
+</figure>
+Wir begeben uns noch auf einen anderen kleinen<lb/>
+Eisberg, der im Nebel gesehen zuerst eine phan-<lb/>
+tastische Größe zu haben schien. Auch hier sehen<lb/>
+wir Eis, das aber nicht vollständig kompakt ist und<lb/>
+nur ein kleines Gletscherkorn zeigt; weiter auf-<lb/>
+wärts ist es Firn. Der in das Eis dieses Eisberges eingeschmolzene Kies bildet ebenfalls<lb/>
+infolge seines größeren Absorptionsvermögens für die Strahlung — kleine Löcher von<lb/>
+1—2 dm Tiefe. Obenstehende Figur zeigt die allgemeine Form dieser Vertiefungen.<lb/>
+Bis jetzt haben wir noch kein Feldeis angetroffen. Um 5 Uhr gehen wir am Fuße<lb/>
+einer steilen Felswand wieder an Land. Anderswo ist am Ufer kein Fels, sondern<lb/>
+</p>
+            
+            <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143eb1d3-19.pdf"/>
+<p>
+Sonnabend, 29. Januar 1898 (Fortsetzung)<lb/>
+nur der hohe Abriß des schichtenförmig gelagerten Firns, der nach der Tiefe zu unmerk-<lb/>
+lich in Eis übergeht. Die Schichtung ist bloß am oberen Teile der Eismauer sichtbar.<lb/>
+Spalten, die sich parallel der Küste bilden, bewirken, daß diese weiße Eismauer in Trümmern<lb/>
+ins Meer stürzt. Nicht weit von uns befindet sich im Hintergrunde der kleinen Bucht,<lb/>
+in die wir, um eine geeignete Stelle zu finden, eingefahren sind, eine große Gletscher-<lb/>
+front. Der Gletscher ist sehr zerklüftet; seine Oberfläche ist zackig. Wir sahen hier die<lb/>
+Kalbung<note type="editorial">Abbrechen größerer Eismassen ins Meer</note>  eines kleinen Eisberges mit an. Unter heftigem Getöse löste sich ein großen<lb/>
+Eisblock von der Stir des Gletschers los und stürzte ins Wasser. Es entstand eine<lb/>
+Wolke von Eisstaub und eine stark ausgeprägte Woge pflanzte sich in der Bucht fort;<lb/>
+zahlreiche weniger hervortretende Wellen folgten nach. Unser Boot hat glücklicherweise<lb/>
+keinen Schaden genommen, da wir gerade Zeit genug hatten, um gegen die Woge zu rudern.<lb/>
+Der Gletscher steigt sanft nach Süden an, und die Hügelkette, die ihn umsäumt, zieht<lb/>
+sich von N nach S. Eine Insel, die wir vor uns haben, ist geradezu charakteristisch;<lb/>
+sie gleicht der <placeName ref="https://www.wikidata.org/wiki/Q2462413">Two Hummock-Insel</placeName>. Da wir abends noch in derselben Gegend waren,<lb/>
+machte ich eine Skizze, um einige große krummlinige Gletscherspalten, die sehr schön<lb/>
+ausgeprägt waren, abzuzeichnen. Diese Spalten zeigen, daß eine Richtung vorhanden ist,<lb/>
+<figure>
+<graphic type="ocrResult" orgiginText="1 1 . 1 z">
+<desc>Abbildung eines vergletscherten Berges von der Seeseite</desc>
+</graphic>
+</figure>
+in welcher das Eis leichter bergab fließt — vermutlich ein Tal —; senkrecht zu dieser<lb/>
+Richtung bilden sich die Spalten, die wir sehen. Zwei emporragende Bergspitzen aus-<lb/>
+genommen, liegt diese Insel vollständig unter einer dicken Firnhaube vergraben. Ist es<lb/>
+ein Gletscher? Ja, ohne Zweifel, denn obwohl diese Eis- oder besser gesagt Firneisdecke<lb/>
+sich merklich von den die Täler durchziehenden Gletschern und den Gehängegletschem<lb/>
+unterscheidet, so muß sie doch denselben Gesetzen gehorchen.<lb/>
+Ein herrlicher Abend! Die »Belgica« bleibt noch an Ort und Stelle, denn wir müssen<lb/>
+uns von neuem orientieren. Die Stelle unserer neunten Landung liegt in der Nähe eines<lb/>
+vorspringenden Kaps. Süd- und ostwärts dehnt sich das Meer weit aus; dort liegt eine<lb/>
+große Bucht und vielleicht eine Durchgangsstraße. Es ragen indes im Hintergrunde der<lb/>
+Bucht hohe Berge mit majestätischen Gipfeln empor. Der Weg scheint also in dieser<lb/>
+Richtung versperrt zu sein.<lb/>
+Nach NO liegt der Kanal, durch den wir gefahren sind, aber ohne Zweifel zu schnell.<lb/>
+Wir werden auf demselben Wege wieder zurückkehren müssen, um die bekannten Orientie-<lb/>
+rungspunkte mit dem an letzter Stelle entdeckten Lande in Verbindung zu bringen. Im<lb/>
+NW ist gleichfalls eine große Durchgangsstraße. Aber meine Aufmerksamkeit wird vor-<lb/>
+nehmlich von den schönen Bergspitzen angezogen, die auf der großen, nördlich von unserer<lb/>
+</p>
+            <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143f0134-20.pdf"/>
+            </div>
+            <div type="diaryEntry" n="2">
+            <p>
+            Position liegenden Insel emporragen. Ich ging mit Lecointe auf Deck spazieren und<lb/>
+zeigte ihm eine Stelle, die mir zugänglich erschien. Wir sprachen dann von einer Be-<lb/>
+steigung, die man versuchen könnte. In der Ferne ist ein sanfter, sehr regelmäßiger<lb/>
+Abhang sichtbar, der scheinbar bis zu einem Gipfel führt, der wohl eine Höhe von 2000 m.<lb/>
+erreicht. Es scheint uns, daß man diesen Berg müßte erklettern können. Dort oben<lb/>
+würde sich die Aussicht nach allen Richtungen hin erstrecken, und man könnte die Umrisse<lb/>
+der Länder sehr leicht abzeichnen und sich über das Bodenrelief klar werden. Lecointe<lb/>
+sprach mir von der Methode des Admirals Mouchez, eine Aufnahme unter Zugrundelegung<lb/>
+der Höhe zu machen. Da die Höhe der Beobachtungsstation als Basis genommen wird,<lb/>
+so werden die Entfernungen durch die Winkel zur Senkrechten bestimmt; man braucht<lb/>
+dann bloß die Richtungen in Bezug auf den Meridian anzugeben, um die betreffenden<lb/>
+Punkte auf der Karte zu fixieren. Lecointe will diese Methode anwenden. Cook wird<lb/>
+bereit sein uns zu begleiten, und Amundsen mit Freuden mitmachen.<lb/>
+            </p>
+               <p>Sonntag, den 30. Januar<lb/>            
+Wir steuern nordnordöstlich, um am Fuße der Berge<lb/>
+zu landen, die wir besteigen wollen. Der Kommandant hat sich entschlossen mit uns zu<lb/>
+gehen, aber dann bliebe die »Belgica« ohne Offiziere an Bord, was unmöglich ist; auch erhebt<lb/>
+Racovitza Einspruch dagegen. Lecointe wird also an Bord bleiben und Danco, der mit<lb/>
+uns geht, wird die Vermessungsarbeiten mit dem Theodolit machen. Indes werden viel<lb/>
+zu umfangreiche Vorbereitungen getroffen, und die geplante Exkursion wird unvermeidlich<lb/>
+ihr Ziel verfehlen. Sollte dieselbe gelingen, so müßte ein jeder einen Sack auf den<lb/>
+Rücken nehmen und seine Kräfte stark anspannen, und sobald der Weg schlecht ist, um-<lb/>
+kehren und einen anderen wählen. Wir können nämlich den sanften Abhang, den wir<lb/>
+gestem Abend von weitem sahen, nicht mehr erkennen, und es ist nicht gesagt, daß der<lb/>
+Punkt, wo wir landen wollen, eine günstige Stelle sein wird. Zwei Schlitten (Modell<lb/>
+Hansen), Schlafsäcke aus Pelz, ein Zelt aus Seide zum Schutze gegen Wind und Wetter,<lb/>
+der kleine Jackson-Aluminiumofen, Eisbeile, ein Seil aus Rohseide von 10 m Länge, Lebens-<lb/>
+mittel für 14 Tage, sogar etwas Wäsche zum Wechseln werden mitgenommen, und dann<lb/>
+noch die Instrumente. Das ist entschieden ein viel zu beschwerliches Gepäck, und wir werden<lb/>
+während der acht Tage, die wir auf dem Gletscher zu verbringen gedenken, nichts ausrichten.<lb/>
+Man kann indes nichts im voraus wissen; vielleicht finden wir etwas Interessantes zu be-<lb/>
+obachten? — Wir finden eine schöne Bucht, in deren Hintergrund ein ungeheurer Gletscher<lb/>
+endigt. Wir landen auf einem leicht zugänglichen kleinen Vorgebirge. Die Schneedecke<lb/>
+reicht bis zum Meeresniveau herab, der Äufstieg bietet also keinerlei Schwierigkeiten, aber<lb/>
+die Schlitten sind schrecklich schwer. Lecointe, Tollewsen und Johansen helfen uns, dann<lb/>
+gehen wir allein weiter; wir sind unser fünf: de Gerlache, Danco, <persName ref="https://explore.gnd.network/gnd/118502670">Amundsen</persName>, Cook und ich.<lb/>
+Die »Belgica« verläßt die Bucht. Lecointe wird eine Rekognoszierungsfahrt nach S unter-<lb/>
+nehmen und uns dann wieder abholen. Ich hoffe, er findet die Stelle unseres Landungs-<lb/>
+punktes ohne viel Schwierigkeiten wieder, denn die Bucht ist sehr charakteristisch, und<lb/>
+das Wetter müßte sehr neblig sein, um sie nicht wieder zu erkennen. In einer Höhe von<lb/>
+150—180 m haben wir einige Spalten zu durchqueren; sie sind schmal und die Schnee-<lb/>
+brücken fest genug, um sie mit unserem ganzen Gepäck ohne irgend welche Schwierig-<lb/>
+keiten überschreiten zu können. Weiter oben breitet sich ein großes Schneefeld aus. Von<lb/>
+dieser Höhe aus beherrschte man schon den großen Gletschersturz, in welchem der enorme<lb/>
+Gletscher im Hintergrunde der Bucht endigt. Von dieser Gletscherstirn kann das Eis sich<lb/>
+nur in kleinen Stücken loslösen; die wesentliche Bedingung der Bildung von Eisbergen ist<lb/>
+demnach die, daß die Neigung des Gletschers so schwach ist, daß sie die Entstehung eines<lb/>
+Eistrümmerhaufens an seinem Ende verhindert.<lb/>
+               </p>
+            </div>
+            <div type="diaryEntry" n="3">
+               <p>Montag, den 31. Januar<lb/>
+               Die Nacht verlief gut, obwohl wir in unserem Zelte zu<lb/>
+               </p>
+            </div>
+</div>
+      </body>
+   </text>
+</TEI>
